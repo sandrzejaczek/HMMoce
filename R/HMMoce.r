@@ -1,5 +1,5 @@
 #' HMMoce: an R package for improved analysis of marine animal movement data 
-#' using hidden Markov models
+#' using hidden Markov models.
 #' 
 #' The HMMoce package provides a workflow for leveraging all available data from
 #' tags deployed on marine animals to estimate movements, space use, and 
